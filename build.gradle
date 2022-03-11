@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+}
+
+group 'com.ushakov'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+/**
+ * 1st approach: Setting encoding during compilation in Java and Test classes
+ */
+compileJava.options.encoding = "UTF-8"
+compileTestJava.options.encoding = "UTF-8"
+
+/**
+ * 2nd approach: Setting encoding during compilation in Java and Test classes
+ *
+ tasks.withType(JavaCompile) {
+ options.encoding = "UTF-8"
+ }
+ tasks.withType(Test) {
+ systemProperty "file.encoding", "UTF-8"
+ }
+ */
+
+dependencies {
+    implementation 'org.jetbrains:annotations:20.1.0'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    compile 'com.google.code.gson:gson:2.4'
+    compile 'org.glassfish:javax.annotation:10.0-b28'
+    implementation 'com.github.cliftonlabs:json-simple:3.1.0'
+}
+
+test {
+    useJUnitPlatform()
+}

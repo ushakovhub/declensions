@@ -1,0 +1,1208 @@
+﻿{
+  "lastname": [
+    {
+      "gender": "undefined",
+      "ending": [
+        "бонч",
+        "абдул",
+        "белиц",
+        "гасан",
+        "дюссар",
+        "дюмон",
+        "книппер",
+        "корвин",
+        "ван",
+        "шолом",
+        "тер",
+        "призван",
+        "мелик",
+        "вар",
+        "фон"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "дюма",
+        "тома",
+        "дега",
+        "люка",
+        "ферма",
+        "гамарра",
+        "петипа",
+        "шандра",
+        "скаля",
+        "каруана"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "гусь",
+        "ремень",
+        "камень",
+        "онук",
+        "богода",
+        "нечипас",
+        "долгопалец",
+        "маненок",
+        "рева",
+        "кива",
+        "щёлок"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "вий",
+        "сой",
+        "цой",
+        "хой"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "грин",
+        "дарвин",
+        "регин",
+        "цин"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "б",
+        "в",
+        "г",
+        "д",
+        "ж",
+        "з",
+        "й",
+        "к",
+        "л",
+        "м",
+        "н",
+        "п",
+        "р",
+        "с",
+        "т",
+        "ф",
+        "х",
+        "ц",
+        "ч",
+        "ш",
+        "щ",
+        "ъ",
+        "ь"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "орота"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ска",
+        "цка"
+      ],
+      "mods": {
+        "genitive": "-ой",
+        "dative": "-ой",
+        "accusative": "-ую",
+        "instrumental": "-ой",
+        "prepositional": "-ой"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "чая"
+      ],
+      "mods": {
+        "genitive": "--ей",
+        "dative": "--ей",
+        "accusative": "--ую",
+        "instrumental": "--ей",
+        "prepositional": "--ей"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "чий"
+      ],
+      "mods": {
+        "genitive": "--его",
+        "dative": "--ему",
+        "accusative": "--его",
+        "instrumental": "--им",
+        "prepositional": "--ем"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "цкая",
+        "ская",
+        "ная",
+        "ая"
+      ],
+      "mods": {
+        "genitive": "--ой",
+        "dative": "--ой",
+        "accusative": "--ую",
+        "instrumental": "--ой",
+        "prepositional": "--ой"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "яя"
+      ],
+      "mods": {
+        "genitive": "--ей",
+        "dative": "--ей",
+        "accusative": "--юю",
+        "instrumental": "--ей",
+        "prepositional": "--ей"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "иной",
+        "уй"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "ца"
+      ],
+      "mods": {
+        "genitive": "-ы",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "рих"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "ия"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-и",
+        "accusative": "-ю",
+        "instrumental": "-ей",
+        "prepositional": "-и"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "иа",
+        "аа",
+        "оа",
+        "уа",
+        "ыа",
+        "еа",
+        "юа",
+        "эа"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "о",
+        "е",
+        "э",
+        "и",
+        "ы",
+        "у",
+        "ю"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "их",
+        "ых"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ова",
+        "ева",
+        "на",
+        "ёва"
+      ],
+      "mods": {
+        "genitive": "-ой",
+        "dative": "-ой",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-ой"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "га",
+        "ка",
+        "ха",
+        "ча",
+        "ща",
+        "жа",
+        "ша"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "а"
+      ],
+      "mods": {
+        "genitive": "-ы",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ь"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "я"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-ю",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "обей"
+      ],
+      "mods": {
+        "genitive": "--ья",
+        "dative": "--ью",
+        "accusative": "--ья",
+        "instrumental": "--ьем",
+        "prepositional": "--ье"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ей"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "рн",
+        "ян",
+        "ан",
+        "йн"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ынец"
+      ],
+      "mods": {
+        "genitive": "--ца",
+        "dative": "--цу",
+        "accusative": "--ца",
+        "instrumental": "--цом",
+        "prepositional": "--це"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "нец",
+        "мец",
+        "робец"
+      ],
+      "mods": {
+        "genitive": "--ца",
+        "dative": "--цу",
+        "accusative": "--ца",
+        "instrumental": "--цем",
+        "prepositional": "--це"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ай"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "гой",
+        "кой"
+      ],
+      "mods": {
+        "genitive": "-го",
+        "dative": "-му",
+        "accusative": "-го",
+        "instrumental": "--им",
+        "prepositional": "-м"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ой"
+      ],
+      "mods": {
+        "genitive": "-го",
+        "dative": "-му",
+        "accusative": "-го",
+        "instrumental": "--ым",
+        "prepositional": "-м"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ах",
+        "ав",
+        "ив",
+        "шток"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ший",
+        "щий",
+        "жий",
+        "ний"
+      ],
+      "mods": {
+        "genitive": "--его",
+        "dative": "--ему",
+        "accusative": "--его",
+        "instrumental": "-м",
+        "prepositional": "--ем"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ый",
+        "кий",
+        "хий"
+      ],
+      "mods": {
+        "genitive": "--ого",
+        "dative": "--ому",
+        "accusative": "--ого",
+        "instrumental": "-м",
+        "prepositional": "--ом"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ий"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-и"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ок"
+      ],
+      "mods": {
+        "genitive": "--ка",
+        "dative": "--ку",
+        "accusative": "--ка",
+        "instrumental": "--ком",
+        "prepositional": "--ке"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "обец",
+        "швец",
+        "ьвец"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ем",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "аец",
+        "иец",
+        "еец"
+      ],
+      "mods": {
+        "genitive": "--йца",
+        "dative": "--йцу",
+        "accusative": "--йца",
+        "instrumental": "--йцем",
+        "prepositional": "--йце"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "опец"
+      ],
+      "mods": {
+        "genitive": "--ца",
+        "dative": "--цу",
+        "accusative": "--ца",
+        "instrumental": "--цем",
+        "prepositional": "--це"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "вец",
+        "сец",
+        "убец",
+        "ырец"
+      ],
+      "mods": {
+        "genitive": "--ца",
+        "dative": "--цу",
+        "accusative": "--ца",
+        "instrumental": "--цом",
+        "prepositional": "--це"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ц",
+        "ч",
+        "ш",
+        "щ"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ем",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ен",
+        "нн",
+        "он",
+        "ун",
+        "б",
+        "г",
+        "д",
+        "ж",
+        "з",
+        "к",
+        "л",
+        "м",
+        "п",
+        "р",
+        "с",
+        "т",
+        "ф",
+        "х"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "в",
+        "н"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ым",
+        "prepositional": "е"
+      }
+    }
+  ],
+  "firstname": [
+    {
+      "gender": "male",
+      "ending": [
+        "лев"
+      ],
+      "mods": {
+        "genitive": "--ьва",
+        "dative": "--ьву",
+        "accusative": "--ьва",
+        "instrumental": "--ьвом",
+        "prepositional": "--ьве"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "пётр"
+      ],
+      "mods": {
+        "genitive": "---етра",
+        "dative": "---етру",
+        "accusative": "---етра",
+        "instrumental": "---етром",
+        "prepositional": "---етре"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "павел"
+      ],
+      "mods": {
+        "genitive": "--ла",
+        "dative": "--лу",
+        "accusative": "--ла",
+        "instrumental": "--лом",
+        "prepositional": "--ле"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "яша"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "илья"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-ю",
+        "instrumental": "-ёй",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "шота"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "агидель",
+        "жизель",
+        "нинель",
+        "рашель",
+        "рахиль"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-и",
+        "accusative": "*",
+        "instrumental": "ю",
+        "prepositional": "-и"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ьфия"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-ю",
+        "instrumental": "-ёй",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "е",
+        "ё",
+        "и",
+        "о",
+        "у",
+        "ы",
+        "э",
+        "ю"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "уа",
+        "иа"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "б",
+        "в",
+        "г",
+        "д",
+        "ж",
+        "з",
+        "й",
+        "к",
+        "л",
+        "м",
+        "н",
+        "п",
+        "р",
+        "с",
+        "т",
+        "ф",
+        "х",
+        "ц",
+        "ч",
+        "ш",
+        "щ",
+        "ъ",
+        "иа",
+        "ль"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ь"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-и",
+        "accusative": "*",
+        "instrumental": "ю",
+        "prepositional": "-и"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ь"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "га",
+        "ка",
+        "ха",
+        "ча",
+        "ща",
+        "жа"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ша"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ша",
+        "ча",
+        "жа"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "а"
+      ],
+      "mods": {
+        "genitive": "-ы",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ка",
+        "га",
+        "ха"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ца"
+      ],
+      "mods": {
+        "genitive": "-ы",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "а"
+      ],
+      "mods": {
+        "genitive": "-ы",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "ия"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-и",
+        "accusative": "-ю",
+        "instrumental": "-ей",
+        "prepositional": "-и"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "я"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-е",
+        "accusative": "-ю",
+        "instrumental": "-ей",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ий"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-и"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ей",
+        "й"
+      ],
+      "mods": {
+        "genitive": "-я",
+        "dative": "-ю",
+        "accusative": "-я",
+        "instrumental": "-ем",
+        "prepositional": "-е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "бек"
+      ],
+      "mods": {
+        "genitive": "-ка",
+        "dative": "-ку",
+        "accusative": "-ка",
+        "instrumental": "-ком",
+        "prepositional": "-ке"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ек",
+        "ёк"
+      ],
+      "mods": {
+        "genitive": "--ька",
+        "dative": "--ьку",
+        "accusative": "--ька",
+        "instrumental": "--ьком",
+        "prepositional": "--ьке"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ш",
+        "ж"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ем",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "б",
+        "в",
+        "г",
+        "д",
+        "ж",
+        "з",
+        "к",
+        "л",
+        "м",
+        "н",
+        "п",
+        "р",
+        "с",
+        "т",
+        "ф",
+        "х",
+        "ц",
+        "ч"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "undefined",
+      "ending": [
+        "ния",
+        "рия",
+        "вия"
+      ],
+      "mods": {
+        "genitive": "-и",
+        "dative": "-и",
+        "accusative": "-ю",
+        "instrumental": "-ем",
+        "prepositional": "-ем"
+      }
+    }
+  ],
+  "middlename": [
+    {
+      "gender": "undefined",
+      "ending": [
+        "борух"
+      ],
+      "mods": {
+        "genitive": "*",
+        "dative": "*",
+        "accusative": "*",
+        "instrumental": "*",
+        "prepositional": "*"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "мич",
+        "ьич",
+        "кич"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ом",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "male",
+      "ending": [
+        "ич"
+      ],
+      "mods": {
+        "genitive": "а",
+        "dative": "у",
+        "accusative": "а",
+        "instrumental": "ем",
+        "prepositional": "е"
+      }
+    },
+    {
+      "gender": "female",
+      "ending": [
+        "на"
+      ],
+      "mods": {
+        "genitive": "-ы",
+        "dative": "-е",
+        "accusative": "-у",
+        "instrumental": "-ой",
+        "prepositional": "-е"
+      }
+    }
+  ]
+}
