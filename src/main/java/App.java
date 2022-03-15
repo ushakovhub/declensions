@@ -11,7 +11,7 @@ public class App {
           prepositional - предложный
         */
         DeclensionService declensionService = new DeclensionService();
-        String test = declensionService.getDeclension("Тестов", "Тест", "Тестович", "instrumental");
+        String test = declensionService.getDeclension("Тестов", "Тест", "Тестович", "genitive");
         System.out.println(test);
     }
 }

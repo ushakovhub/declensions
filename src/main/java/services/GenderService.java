@@ -5,7 +5,7 @@ import java.util.Map;
 public class GenderService {
     public String chekGender(Map<String, String> fullName) {
         String mN = fullName.get("middlename");
-        String genderID = "";
+        String genderID = "undefined";
 
         if(mN.endsWith("ич")) {
             genderID = "male";
